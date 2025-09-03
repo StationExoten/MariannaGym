@@ -6,7 +6,7 @@ import { getDatabase } from "firebase/database";
 const firebaseConfig = {
   apiKey: "AIzaSyCZreK6wed9Y4HzddzXiFXsL8Cyl1921RQ",
   authDomain: "mariannagym-9672e.firebaseapp.com",
-  databaseURL: "https://mariannagym-9672e-default-rtdb.firebaseio.com/",
+  databaseURL: "https://mariannagym-9672e-default-rtdb.europe-west1.firebasedatabase.app",
   projectId: "mariannagym-9672e",
   storageBucket: "mariannagym-9672e.firebasestorage.app",
   messagingSenderId: "372540019319",
